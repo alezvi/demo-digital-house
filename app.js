@@ -1,5 +1,4 @@
-let app = function () {
-    return 'hola'
+let app = function (a) {
+  console.log(a)
+  return 'hola'
 }
-
-console.log('...')
